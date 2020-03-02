@@ -1,0 +1,27 @@
+.film-list{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.film-list li{
+  border: 1px solid red;
+  padding: 5px 5px 5px 15px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.film-list a{
+  color: white;
+  text-decoration: none;
+}
+
+.film-list a:hover{
+  color: white;
+  text-decoration: underline;
+}
+
+.film-list a:visited{
+  color: white;
+  text-decoration: none;
+}
