@@ -11,7 +11,7 @@ Sketches - (L) UI, (R) component hierarchy and dataflow:
 ![Image of sketches](sketches.jpg)
 
 App:
-![Image of app](app.png)
+![Image of app](app-screen.png)
 
 # Brief:
 
